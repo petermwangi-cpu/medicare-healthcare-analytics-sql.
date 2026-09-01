@@ -1,0 +1,9 @@
+MediCare Hospital Dashboard Metrics
+
+Metric,Description
+Total Patients,Count of registered patients
+Doctors,Number of healthcare providers
+Appointments,Total hospital visits
+Top Diagnosis,Most frequent medical condition
+Revenue,Total billing amount
+Average Stay,Average admission duration
