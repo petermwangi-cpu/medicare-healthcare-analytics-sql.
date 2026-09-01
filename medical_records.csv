@@ -1,0 +1,301 @@
+record_id,patient_id,diagnosis,symptoms,severity,admission_date,discharge_date
+700001,10117,Asthma,Headache,Critical,2023-05-30,2023-06-07
+700002,10130,Type 2 Diabetes,Joint pain,Low,2023-12-25,2024-01-01
+700003,10117,Heart Disease,Fatigue and dizziness,Moderate,2023-03-24,2023-04-05
+700004,10080,Pneumonia,Chest discomfort,Moderate,2023-12-10,2023-12-14
+700005,10095,Arthritis,Chest discomfort,Critical,2023-07-13,2023-07-19
+700006,10071,Arthritis,Chest discomfort,Low,2024-04-17,2024-04-26
+700007,10155,Arthritis,Chest discomfort,Moderate,2023-07-04,2023-07-05
+700008,10007,Pneumonia,Fever and cough,Critical,2023-07-17,2023-07-20
+700009,10142,Hypertension,Joint pain,Moderate,2023-05-10,2023-05-20
+700010,10130,Heart Disease,Headache,High,2024-09-25,2024-10-08
+700011,10088,Kidney Disease,Shortness of breath,Critical,2024-06-24,2024-07-05
+700012,10016,Type 2 Diabetes,Shortness of breath,Critical,2024-02-16,2024-02-29
+700013,10181,Arthritis,Joint pain,Critical,2023-09-16,2023-09-20
+700014,10038,Hypertension,Headache,High,2024-08-19,2024-08-24
+700015,10193,Heart Disease,Headache,Low,2023-06-18,2023-06-19
+700016,10153,Pneumonia,Shortness of breath,Moderate,2023-02-21,2023-03-06
+700017,10192,Gastritis,Shortness of breath,High,2024-10-28,2024-11-10
+700018,10177,Type 2 Diabetes,Fever and cough,Moderate,2024-04-11,2024-04-12
+700019,10185,Gastritis,Chest discomfort,Low,2024-06-21,2024-06-23
+700020,10027,Arthritis,Headache,Moderate,2024-02-04,2024-02-16
+700021,10165,COVID-19,Joint pain,Low,2024-09-25,2024-10-06
+700022,10013,COVID-19,Fatigue and dizziness,Moderate,2024-03-31,2024-04-03
+700023,10025,Hypertension,Chest discomfort,Moderate,2023-09-12,2023-09-15
+700024,10032,Heart Disease,Fatigue and dizziness,Critical,2024-10-18,2024-10-20
+700025,10110,COVID-19,Fever and cough,High,2023-02-07,2023-02-16
+700026,10050,Gastritis,Joint pain,High,2024-04-10,2024-04-19
+700027,10054,Arthritis,Fatigue and dizziness,High,2024-03-03,2024-03-06
+700028,10067,Type 2 Diabetes,Chest discomfort,Moderate,2024-02-15,2024-02-29
+700029,10070,Hypertension,Shortness of breath,High,2023-02-18,2023-02-25
+700030,10143,Heart Disease,Chest discomfort,Critical,2023-02-08,2023-02-09
+700031,10021,Pneumonia,Shortness of breath,Low,2023-01-10,2023-01-21
+700032,10150,Migraine,Shortness of breath,Critical,2023-03-30,2023-04-13
+700033,10198,Asthma,Fatigue and dizziness,Low,2023-02-04,2023-02-16
+700034,10091,Kidney Disease,Chest discomfort,Moderate,2024-09-24,2024-10-08
+700035,10189,Hypertension,Headache,High,2023-01-04,2023-01-15
+700036,10045,Arthritis,Fever and cough,Critical,2024-06-03,2024-06-10
+700037,10042,Gastritis,Joint pain,High,2023-07-20,2023-07-24
+700038,10118,Asthma,Fever and cough,Low,2023-03-16,2023-03-27
+700039,10033,Type 2 Diabetes,Joint pain,Moderate,2024-10-29,2024-11-03
+700040,10118,Arthritis,Headache,High,2023-02-18,2023-02-25
+700041,10012,COVID-19,Fever and cough,Low,2023-03-31,2023-04-02
+700042,10124,Type 2 Diabetes,Headache,Low,2024-08-02,2024-08-05
+700043,10173,Type 2 Diabetes,Joint pain,Moderate,2023-10-28,2023-11-08
+700044,10142,Gastritis,Chest discomfort,Moderate,2023-05-24,2023-06-06
+700045,10145,Arthritis,Headache,Low,2024-01-02,2024-01-14
+700046,10125,Migraine,Fatigue and dizziness,Critical,2024-10-23,2024-11-06
+700047,10190,Migraine,Chest discomfort,Low,2023-10-16,2023-10-20
+700048,10130,Type 2 Diabetes,Joint pain,Low,2023-01-15,2023-01-19
+700049,10162,Hypertension,Headache,Critical,2023-05-09,2023-05-17
+700050,10123,Pneumonia,Fever and cough,Low,2023-12-25,2024-01-03
+700051,10130,Gastritis,Shortness of breath,Low,2024-11-18,2024-12-02
+700052,10135,Type 2 Diabetes,Headache,Moderate,2024-09-11,2024-09-20
+700053,10182,Pneumonia,Fever and cough,Low,2023-02-10,2023-02-20
+700054,10094,Migraine,Fatigue and dizziness,High,2023-04-27,2023-05-01
+700055,10079,COVID-19,Joint pain,Moderate,2023-04-17,2023-04-22
+700056,10041,Migraine,Joint pain,Moderate,2023-11-30,2023-12-02
+700057,10109,Type 2 Diabetes,Fatigue and dizziness,High,2023-07-16,2023-07-28
+700058,10081,Heart Disease,Chest discomfort,Low,2024-09-10,2024-09-14
+700059,10005,Pneumonia,Joint pain,Moderate,2024-03-30,2024-04-12
+700060,10154,Hypertension,Joint pain,Critical,2024-04-28,2024-05-10
+700061,10022,COVID-19,Fatigue and dizziness,Critical,2023-12-25,2023-12-26
+700062,10050,Arthritis,Chest discomfort,Moderate,2024-01-26,2024-01-29
+700063,10056,Heart Disease,Fever and cough,Critical,2023-09-30,2023-10-05
+700064,10008,Heart Disease,Chest discomfort,Moderate,2023-09-24,2023-09-30
+700065,10107,Type 2 Diabetes,Headache,High,2023-02-23,2023-03-06
+700066,10158,COVID-19,Shortness of breath,Moderate,2023-05-03,2023-05-06
+700067,10062,Arthritis,Fatigue and dizziness,Critical,2024-11-08,2024-11-17
+700068,10068,COVID-19,Joint pain,Low,2023-12-12,2023-12-13
+700069,10011,Heart Disease,Joint pain,Critical,2023-03-18,2023-03-24
+700070,10185,Heart Disease,Joint pain,Critical,2024-08-12,2024-08-22
+700071,10041,Asthma,Headache,Moderate,2024-01-08,2024-01-14
+700072,10199,Arthritis,Joint pain,Critical,2023-12-15,2023-12-23
+700073,10128,Type 2 Diabetes,Joint pain,Moderate,2023-09-10,2023-09-23
+700074,10063,Type 2 Diabetes,Fatigue and dizziness,High,2023-06-30,2023-07-02
+700075,10086,Arthritis,Headache,Low,2024-05-09,2024-05-13
+700076,10122,Migraine,Headache,High,2024-09-01,2024-09-06
+700077,10074,Gastritis,Headache,Moderate,2023-03-16,2023-03-25
+700078,10060,Arthritis,Fever and cough,Low,2024-01-19,2024-01-24
+700079,10021,Kidney Disease,Headache,Low,2023-01-05,2023-01-10
+700080,10109,COVID-19,Joint pain,High,2023-10-10,2023-10-21
+700081,10176,Hypertension,Fever and cough,High,2024-10-02,2024-10-11
+700082,10024,COVID-19,Joint pain,Moderate,2023-07-06,2023-07-08
+700083,10087,Gastritis,Headache,Moderate,2024-06-26,2024-06-28
+700084,10011,Arthritis,Shortness of breath,Critical,2024-02-20,2024-02-29
+700085,10145,Arthritis,Chest discomfort,Low,2023-07-01,2023-07-14
+700086,10001,Heart Disease,Fever and cough,Low,2024-04-05,2024-04-11
+700087,10184,Gastritis,Shortness of breath,Moderate,2024-04-06,2024-04-20
+700088,10163,Kidney Disease,Chest discomfort,Critical,2024-04-03,2024-04-11
+700089,10165,Heart Disease,Fever and cough,Low,2023-05-25,2023-05-29
+700090,10029,Gastritis,Chest discomfort,Moderate,2023-01-26,2023-02-02
+700091,10122,Asthma,Fever and cough,High,2023-09-03,2023-09-17
+700092,10100,Arthritis,Fever and cough,Critical,2023-10-31,2023-11-09
+700093,10147,Asthma,Fatigue and dizziness,Low,2023-04-29,2023-05-08
+700094,10110,Arthritis,Fever and cough,Moderate,2023-01-21,2023-01-30
+700095,10020,Pneumonia,Headache,Critical,2023-01-21,2023-01-23
+700096,10133,Asthma,Joint pain,Critical,2023-10-01,2023-10-06
+700097,10142,Migraine,Headache,High,2024-09-20,2024-10-03
+700098,10072,Type 2 Diabetes,Fever and cough,Moderate,2023-12-25,2024-01-01
+700099,10075,Kidney Disease,Fatigue and dizziness,High,2024-02-01,2024-02-02
+700100,10123,Arthritis,Shortness of breath,Critical,2024-11-04,2024-11-15
+700101,10127,Gastritis,Joint pain,High,2023-05-22,2023-06-03
+700102,10020,Arthritis,Fatigue and dizziness,Critical,2023-10-26,2023-10-27
+700103,10042,Heart Disease,Fatigue and dizziness,Low,2023-08-03,2023-08-14
+700104,10177,COVID-19,Shortness of breath,Low,2023-04-05,2023-04-14
+700105,10173,Pneumonia,Headache,High,2023-12-23,2024-01-02
+700106,10076,Kidney Disease,Joint pain,High,2023-09-09,2023-09-19
+700107,10083,Migraine,Shortness of breath,Low,2023-11-19,2023-11-30
+700108,10080,COVID-19,Joint pain,Moderate,2023-06-10,2023-06-21
+700109,10087,Asthma,Fever and cough,Critical,2023-08-28,2023-09-01
+700110,10104,Migraine,Headache,Moderate,2024-04-24,2024-04-27
+700111,10159,Pneumonia,Headache,High,2024-10-10,2024-10-14
+700112,10125,Heart Disease,Joint pain,High,2023-10-19,2023-11-02
+700113,10008,Arthritis,Joint pain,Critical,2024-08-15,2024-08-21
+700114,10124,Heart Disease,Joint pain,Critical,2024-07-28,2024-08-04
+700115,10135,Arthritis,Headache,Moderate,2023-01-29,2023-02-10
+700116,10071,Migraine,Shortness of breath,Critical,2023-12-03,2023-12-13
+700117,10047,Asthma,Headache,Low,2023-05-02,2023-05-12
+700118,10040,Pneumonia,Chest discomfort,Low,2023-03-25,2023-04-02
+700119,10195,Kidney Disease,Fever and cough,Critical,2024-07-26,2024-08-07
+700120,10079,Type 2 Diabetes,Fever and cough,Low,2024-10-16,2024-10-26
+700121,10165,COVID-19,Fever and cough,High,2023-12-10,2023-12-18
+700122,10146,Hypertension,Joint pain,Moderate,2024-07-16,2024-07-28
+700123,10191,COVID-19,Joint pain,Low,2023-03-13,2023-03-14
+700124,10147,Hypertension,Headache,Low,2023-11-21,2023-11-22
+700125,10026,Type 2 Diabetes,Shortness of breath,Critical,2024-06-21,2024-07-04
+700126,10027,Heart Disease,Fatigue and dizziness,High,2024-07-17,2024-07-31
+700127,10193,Asthma,Headache,Low,2023-01-23,2023-01-31
+700128,10190,Kidney Disease,Headache,High,2024-03-05,2024-03-06
+700129,10192,COVID-19,Fatigue and dizziness,Low,2023-09-23,2023-10-05
+700130,10157,Heart Disease,Headache,Moderate,2024-04-11,2024-04-19
+700131,10142,Arthritis,Joint pain,Low,2024-02-04,2024-02-05
+700132,10048,Arthritis,Fatigue and dizziness,Moderate,2023-04-15,2023-04-20
+700133,10171,Gastritis,Chest discomfort,High,2024-03-01,2024-03-04
+700134,10037,Kidney Disease,Fatigue and dizziness,High,2023-08-13,2023-08-15
+700135,10151,Gastritis,Shortness of breath,Moderate,2023-04-13,2023-04-27
+700136,10103,Gastritis,Shortness of breath,Low,2023-04-11,2023-04-23
+700137,10010,Kidney Disease,Joint pain,High,2023-12-19,2023-12-26
+700138,10088,Heart Disease,Joint pain,Moderate,2023-08-16,2023-08-28
+700139,10141,COVID-19,Fever and cough,Low,2023-03-06,2023-03-19
+700140,10085,Kidney Disease,Shortness of breath,Moderate,2023-01-06,2023-01-07
+700141,10173,Asthma,Fatigue and dizziness,Low,2024-04-12,2024-04-13
+700142,10007,Heart Disease,Joint pain,Critical,2024-01-12,2024-01-21
+700143,10016,Migraine,Chest discomfort,Moderate,2023-07-13,2023-07-24
+700144,10030,COVID-19,Headache,Low,2024-04-05,2024-04-07
+700145,10041,Arthritis,Fever and cough,Critical,2024-05-15,2024-05-29
+700146,10151,Heart Disease,Headache,Critical,2024-03-11,2024-03-19
+700147,10095,Arthritis,Chest discomfort,Low,2023-03-09,2023-03-14
+700148,10054,Type 2 Diabetes,Headache,Low,2024-07-07,2024-07-21
+700149,10049,Hypertension,Joint pain,Critical,2023-12-04,2023-12-18
+700150,10133,Hypertension,Shortness of breath,High,2024-05-20,2024-05-31
+700151,10021,Type 2 Diabetes,Fatigue and dizziness,High,2024-08-30,2024-09-05
+700152,10124,Hypertension,Joint pain,Critical,2024-11-10,2024-11-13
+700153,10170,COVID-19,Fatigue and dizziness,Critical,2023-10-12,2023-10-14
+700154,10017,Heart Disease,Chest discomfort,Low,2023-07-21,2023-07-30
+700155,10115,Gastritis,Chest discomfort,Low,2024-09-10,2024-09-22
+700156,10180,Type 2 Diabetes,Joint pain,High,2024-07-27,2024-08-07
+700157,10112,Asthma,Headache,High,2024-09-12,2024-09-13
+700158,10010,Heart Disease,Fever and cough,High,2023-08-29,2023-09-08
+700159,10076,Migraine,Shortness of breath,High,2023-01-21,2023-01-24
+700160,10165,Migraine,Chest discomfort,Low,2024-05-13,2024-05-20
+700161,10083,Arthritis,Fever and cough,Low,2023-09-12,2023-09-24
+700162,10162,Asthma,Joint pain,Moderate,2023-01-11,2023-01-14
+700163,10061,Type 2 Diabetes,Joint pain,Critical,2023-03-06,2023-03-07
+700164,10192,Gastritis,Joint pain,High,2024-06-12,2024-06-20
+700165,10128,Asthma,Headache,Critical,2024-11-20,2024-12-02
+700166,10025,Hypertension,Chest discomfort,High,2024-02-10,2024-02-19
+700167,10043,Type 2 Diabetes,Shortness of breath,Critical,2024-02-26,2024-03-11
+700168,10192,Migraine,Chest discomfort,Moderate,2023-07-13,2023-07-17
+700169,10078,Asthma,Shortness of breath,Critical,2023-11-29,2023-12-10
+700170,10116,COVID-19,Fever and cough,Critical,2024-04-09,2024-04-11
+700171,10122,Type 2 Diabetes,Shortness of breath,Moderate,2023-06-20,2023-06-24
+700172,10128,Asthma,Joint pain,Low,2024-03-06,2024-03-14
+700173,10196,Kidney Disease,Shortness of breath,Low,2024-07-07,2024-07-16
+700174,10190,Kidney Disease,Joint pain,Low,2024-11-09,2024-11-12
+700175,10114,Heart Disease,Fever and cough,Critical,2023-05-11,2023-05-12
+700176,10069,Gastritis,Shortness of breath,High,2023-11-23,2023-11-27
+700177,10154,Gastritis,Headache,Low,2023-06-01,2023-06-13
+700178,10027,Arthritis,Joint pain,Moderate,2023-08-31,2023-09-12
+700179,10143,COVID-19,Chest discomfort,High,2023-04-28,2023-05-01
+700180,10073,Hypertension,Chest discomfort,Low,2023-04-25,2023-04-30
+700181,10182,Kidney Disease,Headache,Moderate,2024-09-11,2024-09-23
+700182,10106,Kidney Disease,Shortness of breath,Low,2024-07-24,2024-08-05
+700183,10061,Kidney Disease,Fever and cough,Critical,2024-06-30,2024-07-05
+700184,10145,COVID-19,Fatigue and dizziness,Low,2024-05-30,2024-06-10
+700185,10002,Heart Disease,Headache,Moderate,2023-06-23,2023-07-06
+700186,10006,Migraine,Chest discomfort,High,2024-10-19,2024-10-23
+700187,10014,Heart Disease,Chest discomfort,Critical,2023-05-08,2023-05-21
+700188,10062,Heart Disease,Chest discomfort,Low,2024-04-25,2024-05-05
+700189,10197,Pneumonia,Headache,Moderate,2023-07-30,2023-08-01
+700190,10063,COVID-19,Chest discomfort,Low,2023-11-08,2023-11-11
+700191,10025,Pneumonia,Fever and cough,Critical,2024-09-30,2024-10-02
+700192,10195,Kidney Disease,Chest discomfort,Low,2023-02-26,2023-03-03
+700193,10123,Hypertension,Fatigue and dizziness,Critical,2023-08-20,2023-08-21
+700194,10154,Pneumonia,Fever and cough,Low,2024-04-30,2024-05-14
+700195,10141,Pneumonia,Chest discomfort,High,2023-05-24,2023-05-27
+700196,10025,Kidney Disease,Shortness of breath,Critical,2023-06-01,2023-06-03
+700197,10189,Migraine,Joint pain,Moderate,2024-02-14,2024-02-27
+700198,10059,Arthritis,Headache,Critical,2024-06-15,2024-06-25
+700199,10129,Arthritis,Shortness of breath,Moderate,2023-04-03,2023-04-15
+700200,10136,Asthma,Chest discomfort,Moderate,2023-02-21,2023-02-27
+700201,10027,Arthritis,Shortness of breath,Moderate,2023-02-08,2023-02-09
+700202,10189,Kidney Disease,Shortness of breath,High,2023-07-05,2023-07-07
+700203,10014,Heart Disease,Headache,Moderate,2024-11-19,2024-11-23
+700204,10118,Hypertension,Headache,Critical,2023-04-29,2023-05-10
+700205,10134,Heart Disease,Shortness of breath,High,2024-05-08,2024-05-09
+700206,10198,Arthritis,Chest discomfort,Critical,2023-02-16,2023-02-23
+700207,10182,Heart Disease,Joint pain,High,2023-12-05,2023-12-10
+700208,10073,Heart Disease,Fever and cough,Critical,2023-02-02,2023-02-13
+700209,10113,Migraine,Fever and cough,High,2023-01-14,2023-01-17
+700210,10145,Type 2 Diabetes,Chest discomfort,Critical,2023-05-26,2023-06-03
+700211,10065,Migraine,Joint pain,Low,2023-10-25,2023-10-28
+700212,10009,Gastritis,Chest discomfort,High,2023-05-16,2023-05-26
+700213,10104,Pneumonia,Headache,Critical,2023-04-28,2023-05-05
+700214,10049,Heart Disease,Headache,Low,2023-08-31,2023-09-01
+700215,10149,COVID-19,Joint pain,High,2023-04-21,2023-04-27
+700216,10158,Type 2 Diabetes,Shortness of breath,High,2023-04-03,2023-04-13
+700217,10024,Heart Disease,Fatigue and dizziness,Moderate,2024-07-06,2024-07-11
+700218,10013,Migraine,Chest discomfort,Critical,2023-02-01,2023-02-02
+700219,10162,Pneumonia,Joint pain,Low,2023-10-14,2023-10-25
+700220,10198,Kidney Disease,Chest discomfort,High,2023-03-02,2023-03-15
+700221,10124,Gastritis,Shortness of breath,Moderate,2024-08-12,2024-08-21
+700222,10180,Migraine,Shortness of breath,High,2024-03-14,2024-03-22
+700223,10197,Pneumonia,Fatigue and dizziness,Critical,2023-02-10,2023-02-23
+700224,10073,Type 2 Diabetes,Fatigue and dizziness,High,2023-05-04,2023-05-10
+700225,10125,Asthma,Joint pain,Moderate,2024-10-10,2024-10-14
+700226,10111,Hypertension,Fatigue and dizziness,Low,2024-03-12,2024-03-17
+700227,10156,Hypertension,Chest discomfort,Low,2023-10-04,2023-10-11
+700228,10094,Asthma,Joint pain,Low,2024-01-30,2024-02-10
+700229,10166,Kidney Disease,Headache,High,2023-09-12,2023-09-13
+700230,10188,Gastritis,Headache,Low,2024-08-18,2024-08-28
+700231,10123,Heart Disease,Fever and cough,Critical,2023-03-30,2023-04-03
+700232,10188,Migraine,Chest discomfort,High,2023-02-23,2023-02-27
+700233,10064,Migraine,Joint pain,Critical,2024-11-20,2024-11-26
+700234,10162,Arthritis,Fever and cough,High,2023-02-23,2023-03-03
+700235,10174,Gastritis,Headache,Moderate,2023-12-29,2024-01-04
+700236,10147,Pneumonia,Headache,High,2024-04-24,2024-05-07
+700237,10082,Heart Disease,Headache,Low,2024-05-08,2024-05-21
+700238,10040,Heart Disease,Chest discomfort,High,2024-11-28,2024-12-10
+700239,10022,COVID-19,Fever and cough,Critical,2023-02-12,2023-02-13
+700240,10030,Asthma,Joint pain,Low,2023-06-03,2023-06-12
+700241,10181,Pneumonia,Fever and cough,Critical,2023-06-22,2023-07-01
+700242,10041,Type 2 Diabetes,Headache,High,2023-06-24,2023-07-02
+700243,10089,Hypertension,Shortness of breath,Moderate,2023-11-16,2023-11-21
+700244,10068,Hypertension,Joint pain,Moderate,2023-12-04,2023-12-14
+700245,10189,Asthma,Shortness of breath,Moderate,2023-10-26,2023-11-02
+700246,10057,Hypertension,Shortness of breath,Low,2023-02-12,2023-02-19
+700247,10138,Gastritis,Headache,Low,2023-06-20,2023-06-28
+700248,10112,Asthma,Shortness of breath,Moderate,2023-04-22,2023-04-28
+700249,10188,Gastritis,Joint pain,Low,2024-07-14,2024-07-26
+700250,10057,Pneumonia,Fatigue and dizziness,Low,2023-02-27,2023-03-01
+700251,10021,Arthritis,Shortness of breath,Critical,2023-05-24,2023-05-29
+700252,10143,Asthma,Headache,Moderate,2023-04-17,2023-04-20
+700253,10095,Hypertension,Fatigue and dizziness,Critical,2023-10-07,2023-10-11
+700254,10087,Heart Disease,Fever and cough,High,2024-10-16,2024-10-22
+700255,10100,Heart Disease,Fatigue and dizziness,Low,2023-04-20,2023-04-27
+700256,10044,Kidney Disease,Fatigue and dizziness,Moderate,2023-11-01,2023-11-02
+700257,10156,COVID-19,Headache,Moderate,2023-11-02,2023-11-14
+700258,10080,COVID-19,Fever and cough,Low,2024-10-13,2024-10-24
+700259,10069,Gastritis,Fatigue and dizziness,Moderate,2023-04-17,2023-04-27
+700260,10107,Hypertension,Headache,Moderate,2024-03-07,2024-03-19
+700261,10164,Pneumonia,Fever and cough,Critical,2023-07-10,2023-07-16
+700262,10086,Migraine,Fatigue and dizziness,Critical,2023-05-20,2023-05-24
+700263,10184,Kidney Disease,Joint pain,Critical,2024-04-16,2024-04-29
+700264,10011,Asthma,Headache,Low,2023-01-25,2023-02-04
+700265,10077,Type 2 Diabetes,Fatigue and dizziness,Moderate,2023-10-13,2023-10-19
+700266,10009,COVID-19,Headache,Moderate,2024-03-24,2024-04-04
+700267,10017,Heart Disease,Joint pain,Low,2023-11-05,2023-11-09
+700268,10035,Pneumonia,Joint pain,High,2024-11-30,2024-12-11
+700269,10108,Kidney Disease,Shortness of breath,Low,2024-06-01,2024-06-08
+700270,10021,Gastritis,Joint pain,High,2024-05-25,2024-06-07
+700271,10002,Heart Disease,Headache,Moderate,2023-04-18,2023-04-28
+700272,10162,Type 2 Diabetes,Chest discomfort,Moderate,2024-11-01,2024-11-12
+700273,10196,Kidney Disease,Shortness of breath,Critical,2024-03-11,2024-03-25
+700274,10131,COVID-19,Fever and cough,Low,2023-05-03,2023-05-16
+700275,10193,COVID-19,Chest discomfort,High,2024-03-01,2024-03-14
+700276,10148,Migraine,Fatigue and dizziness,Moderate,2023-12-12,2023-12-17
+700277,10080,Pneumonia,Headache,Critical,2023-10-06,2023-10-18
+700278,10173,Type 2 Diabetes,Joint pain,Moderate,2023-07-25,2023-08-06
+700279,10012,Pneumonia,Headache,High,2024-02-08,2024-02-12
+700280,10018,Asthma,Chest discomfort,Low,2024-05-29,2024-06-07
+700281,10096,Migraine,Chest discomfort,Low,2023-10-31,2023-11-12
+700282,10190,Pneumonia,Fatigue and dizziness,Low,2024-07-25,2024-08-02
+700283,10157,Heart Disease,Headache,Low,2024-10-21,2024-10-29
+700284,10086,Type 2 Diabetes,Headache,Moderate,2024-02-16,2024-02-25
+700285,10145,Arthritis,Headache,Critical,2023-08-29,2023-09-10
+700286,10146,Migraine,Chest discomfort,Low,2024-10-09,2024-10-20
+700287,10102,Arthritis,Shortness of breath,Critical,2024-03-19,2024-03-30
+700288,10101,Type 2 Diabetes,Headache,High,2023-02-02,2023-02-11
+700289,10140,Migraine,Joint pain,Critical,2024-10-18,2024-10-22
+700290,10179,Hypertension,Shortness of breath,High,2024-08-04,2024-08-15
+700291,10075,Migraine,Fatigue and dizziness,Low,2023-01-07,2023-01-21
+700292,10063,Gastritis,Chest discomfort,Low,2023-02-03,2023-02-09
+700293,10142,Gastritis,Shortness of breath,Low,2023-08-24,2023-08-31
+700294,10115,Arthritis,Chest discomfort,High,2024-03-19,2024-03-24
+700295,10175,Hypertension,Headache,Low,2023-04-16,2023-04-20
+700296,10033,Arthritis,Joint pain,Critical,2023-12-15,2023-12-24
+700297,10042,Arthritis,Fever and cough,Critical,2023-07-23,2023-07-24
+700298,10001,Migraine,Shortness of breath,Low,2023-04-02,2023-04-03
+700299,10102,Gastritis,Chest discomfort,Low,2024-06-19,2024-06-25
+700300,10026,Type 2 Diabetes,Chest discomfort,Moderate,2024-08-30,2024-08-31

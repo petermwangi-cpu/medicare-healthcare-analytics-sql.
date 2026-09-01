@@ -1,0 +1,151 @@
+bill_id,patient_id,service,amount,payment_status,bill_date
+900001,10070,Hospital Admission,795.0,Insurance Covered,2024-01-20
+900002,10056,Medication,2697.0,Paid,2024-08-30
+900003,10038,MRI Scan,1459.87,Insurance Covered,2024-02-24
+900004,10032,Laboratory Test,443.37,Pending,2024-01-24
+900005,10059,Consultation,2823.13,Pending,2024-04-23
+900006,10020,Laboratory Test,642.24,Pending,2024-08-04
+900007,10021,Hospital Admission,812.98,Insurance Covered,2024-10-03
+900008,10071,Hospital Admission,784.7,Insurance Covered,2024-02-11
+900009,10182,Consultation,2619.79,Pending,2024-12-09
+900010,10101,MRI Scan,1172.22,Pending,2024-07-05
+900011,10056,Hospital Admission,2435.64,Insurance Covered,2024-04-22
+900012,10129,MRI Scan,246.6,Pending,2024-11-07
+900013,10165,MRI Scan,1963.42,Pending,2024-05-04
+900014,10137,Hospital Admission,1998.92,Insurance Covered,2024-02-28
+900015,10114,Emergency Visit,2774.71,Insurance Covered,2024-11-18
+900016,10101,Laboratory Test,2001.83,Insurance Covered,2024-06-08
+900017,10122,Emergency Visit,2116.85,Paid,2024-11-21
+900018,10050,Laboratory Test,899.63,Pending,2024-08-29
+900019,10115,Emergency Visit,1429.41,Pending,2024-09-12
+900020,10101,Medication,1020.56,Pending,2024-04-12
+900021,10140,Consultation,1927.52,Insurance Covered,2024-06-14
+900022,10049,Emergency Visit,267.57,Insurance Covered,2024-02-06
+900023,10127,Hospital Admission,1450.77,Pending,2024-05-21
+900024,10140,Consultation,2747.39,Insurance Covered,2024-09-28
+900025,10131,Laboratory Test,2448.52,Pending,2024-04-25
+900026,10039,Consultation,2930.2,Insurance Covered,2024-08-28
+900027,10176,Hospital Admission,1052.61,Paid,2024-06-09
+900028,10045,MRI Scan,1536.37,Pending,2024-05-18
+900029,10144,Consultation,1825.93,Paid,2024-08-07
+900030,10048,Hospital Admission,162.87,Paid,2024-04-02
+900031,10141,Laboratory Test,2143.31,Insurance Covered,2024-10-10
+900032,10011,MRI Scan,511.86,Paid,2024-10-24
+900033,10114,Hospital Admission,2152.59,Pending,2024-08-02
+900034,10194,MRI Scan,2320.54,Paid,2024-01-21
+900035,10142,Medication,2532.99,Paid,2024-03-10
+900036,10124,Emergency Visit,227.33,Pending,2024-05-31
+900037,10068,Hospital Admission,2678.37,Insurance Covered,2024-09-20
+900038,10069,Consultation,1226.79,Pending,2024-09-04
+900039,10010,Medication,1366.11,Insurance Covered,2024-02-16
+900040,10050,Emergency Visit,2276.37,Paid,2024-06-07
+900041,10013,Emergency Visit,2907.63,Insurance Covered,2024-11-17
+900042,10071,MRI Scan,2604.16,Pending,2024-06-17
+900043,10070,Hospital Admission,983.94,Pending,2024-02-03
+900044,10060,Emergency Visit,2989.64,Pending,2024-01-08
+900045,10161,Laboratory Test,987.24,Paid,2024-09-28
+900046,10171,Emergency Visit,2014.54,Paid,2024-03-07
+900047,10064,Emergency Visit,1789.73,Insurance Covered,2024-01-16
+900048,10037,Hospital Admission,1177.59,Insurance Covered,2024-03-17
+900049,10100,Laboratory Test,1506.12,Paid,2024-03-18
+900050,10145,Medication,1777.05,Insurance Covered,2024-03-14
+900051,10076,Consultation,1349.85,Insurance Covered,2024-11-26
+900052,10182,Emergency Visit,1086.79,Paid,2024-05-06
+900053,10080,Laboratory Test,1930.55,Paid,2024-01-28
+900054,10094,Medication,2356.57,Pending,2024-07-25
+900055,10037,Laboratory Test,1345.29,Paid,2024-04-26
+900056,10164,Consultation,2972.29,Paid,2024-07-23
+900057,10049,Emergency Visit,1204.04,Pending,2024-01-20
+900058,10093,Laboratory Test,2972.68,Pending,2024-11-23
+900059,10124,Laboratory Test,778.85,Paid,2024-12-21
+900060,10087,Medication,1904.48,Paid,2024-01-14
+900061,10067,MRI Scan,499.46,Insurance Covered,2024-04-08
+900062,10087,Laboratory Test,357.25,Pending,2024-05-14
+900063,10115,Emergency Visit,2085.97,Insurance Covered,2024-01-29
+900064,10126,Emergency Visit,1405.46,Insurance Covered,2024-07-03
+900065,10088,Consultation,557.97,Pending,2024-05-10
+900066,10051,Hospital Admission,890.8,Pending,2024-02-01
+900067,10127,Laboratory Test,158.82,Insurance Covered,2024-10-29
+900068,10052,Consultation,572.94,Paid,2024-11-03
+900069,10104,Hospital Admission,2753.32,Insurance Covered,2024-03-10
+900070,10110,Consultation,2483.53,Pending,2024-06-19
+900071,10023,Hospital Admission,574.71,Insurance Covered,2024-08-10
+900072,10053,Hospital Admission,1178.66,Paid,2024-11-04
+900073,10183,Hospital Admission,432.42,Paid,2024-06-06
+900074,10039,Emergency Visit,687.94,Pending,2024-12-12
+900075,10174,Hospital Admission,255.84,Insurance Covered,2024-06-03
+900076,10052,Medication,1615.87,Pending,2024-08-21
+900077,10074,Laboratory Test,868.8,Insurance Covered,2024-11-01
+900078,10081,Emergency Visit,559.23,Paid,2024-05-21
+900079,10118,Emergency Visit,74.93,Pending,2024-07-07
+900080,10074,Consultation,696.0,Paid,2024-04-14
+900081,10102,Consultation,2163.21,Insurance Covered,2024-10-01
+900082,10149,Laboratory Test,987.37,Paid,2024-07-07
+900083,10075,MRI Scan,1158.5,Paid,2024-10-20
+900084,10108,Consultation,1023.33,Paid,2024-11-03
+900085,10168,Emergency Visit,128.24,Paid,2024-08-03
+900086,10070,Hospital Admission,1731.77,Pending,2024-04-21
+900087,10163,MRI Scan,1065.67,Pending,2024-05-12
+900088,10074,Laboratory Test,1176.03,Pending,2024-04-17
+900089,10037,Laboratory Test,623.77,Insurance Covered,2024-11-01
+900090,10100,Consultation,2380.35,Pending,2024-11-05
+900091,10178,Laboratory Test,2349.15,Pending,2024-05-06
+900092,10051,Emergency Visit,126.0,Pending,2024-09-01
+900093,10010,Medication,663.5,Paid,2024-03-06
+900094,10030,Emergency Visit,1598.44,Insurance Covered,2024-03-22
+900095,10127,Medication,606.72,Paid,2024-08-24
+900096,10162,Medication,629.06,Paid,2024-07-24
+900097,10196,Laboratory Test,1081.0,Insurance Covered,2024-06-15
+900098,10071,Hospital Admission,445.66,Paid,2024-11-01
+900099,10019,Consultation,606.42,Pending,2024-09-14
+900100,10164,MRI Scan,1352.55,Insurance Covered,2024-04-09
+900101,10047,Consultation,2077.38,Pending,2024-09-16
+900102,10009,Laboratory Test,634.84,Insurance Covered,2024-06-22
+900103,10177,Consultation,1112.82,Paid,2024-02-19
+900104,10183,Medication,443.66,Pending,2024-10-07
+900105,10088,MRI Scan,1226.34,Paid,2024-05-21
+900106,10109,MRI Scan,1933.43,Pending,2024-05-13
+900107,10078,Laboratory Test,1198.07,Pending,2024-12-13
+900108,10147,Emergency Visit,1985.88,Paid,2024-02-15
+900109,10159,Emergency Visit,786.37,Paid,2024-09-04
+900110,10189,Emergency Visit,2484.81,Insurance Covered,2024-03-29
+900111,10086,Laboratory Test,2831.17,Pending,2024-05-06
+900112,10108,Emergency Visit,763.17,Paid,2024-04-28
+900113,10074,Laboratory Test,2985.99,Paid,2024-09-04
+900114,10105,Medication,1132.93,Paid,2024-09-28
+900115,10042,MRI Scan,1155.19,Insurance Covered,2024-12-20
+900116,10109,Medication,865.4,Insurance Covered,2024-04-25
+900117,10033,MRI Scan,1447.29,Pending,2024-02-15
+900118,10134,Hospital Admission,670.7,Pending,2024-11-11
+900119,10162,MRI Scan,408.06,Insurance Covered,2024-06-16
+900120,10046,Hospital Admission,611.91,Pending,2024-01-24
+900121,10080,Hospital Admission,2505.16,Insurance Covered,2024-11-13
+900122,10153,MRI Scan,2013.59,Pending,2024-11-13
+900123,10036,Hospital Admission,2897.35,Paid,2024-01-21
+900124,10006,Hospital Admission,1052.58,Pending,2024-01-14
+900125,10177,Hospital Admission,2202.56,Insurance Covered,2024-04-02
+900126,10035,MRI Scan,578.54,Paid,2024-11-30
+900127,10162,Emergency Visit,365.63,Insurance Covered,2024-04-21
+900128,10002,Medication,1205.62,Paid,2024-02-09
+900129,10161,Medication,1974.24,Insurance Covered,2024-03-22
+900130,10156,Medication,472.13,Insurance Covered,2024-07-09
+900131,10146,Laboratory Test,1230.65,Pending,2024-06-22
+900132,10128,MRI Scan,526.43,Pending,2024-11-01
+900133,10181,Consultation,2018.25,Insurance Covered,2024-09-30
+900134,10053,MRI Scan,447.02,Pending,2024-05-04
+900135,10097,Emergency Visit,2499.24,Pending,2024-03-21
+900136,10156,MRI Scan,2670.49,Paid,2024-02-18
+900137,10192,Hospital Admission,940.23,Paid,2024-05-28
+900138,10084,MRI Scan,2303.17,Paid,2024-05-24
+900139,10010,Hospital Admission,2978.07,Pending,2024-03-13
+900140,10131,Laboratory Test,1465.23,Pending,2024-08-18
+900141,10167,Laboratory Test,1922.58,Insurance Covered,2024-02-22
+900142,10151,Consultation,2305.02,Pending,2024-01-25
+900143,10094,Hospital Admission,1512.45,Pending,2024-10-09
+900144,10160,Emergency Visit,2201.46,Insurance Covered,2024-06-18
+900145,10043,Consultation,2445.8,Paid,2024-07-20
+900146,10187,Consultation,1850.9,Insurance Covered,2024-08-19
+900147,10110,Hospital Admission,788.26,Insurance Covered,2024-12-27
+900148,10198,Hospital Admission,2307.54,Pending,2024-03-03
+900149,10088,Laboratory Test,2447.41,Insurance Covered,2024-10-08
+900150,10164,Medication,1045.32,Pending,2024-03-25
